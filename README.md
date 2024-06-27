@@ -1,4 +1,4 @@
-# magento2-happiness
+# Magento2 Happiness
 ## Contents
 - [Magento2 Learning](#magento2-learning)
 
