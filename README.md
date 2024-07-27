@@ -1,4 +1,4 @@
-# Magento2 Happiness
+# Magento2 Useful Tools
 ## Contents
 - [Magento2 Learning](#magento2-learning)
 
